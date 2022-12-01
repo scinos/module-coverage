@@ -1,6 +1,6 @@
 {
   "name": "module-coverage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Displays information about module coverage (on a webpack bundle) using Code Coverage report from Chrome DevTools.",
   "keywords": [
     "coverage",
