@@ -7,6 +7,10 @@ adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### Fixed
+
+- Fix a bug where it won't report unused modules unless `-r` is provided.
+
 ## [1.0.0] - 2022-12-01
 
 - Initial release
