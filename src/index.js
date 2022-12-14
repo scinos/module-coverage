@@ -59,9 +59,7 @@ const printUnusedModules = ({ modules }) => {
 
   modules
     .sort(([, sizeA], [, sizeB]) => sizeA - sizeB)
-    .forEach(([name, size]) => {
-      if (size) table.addRow(size, name);
-    });
+    .forEach(([name, size]) => table.addRow(size, name));
 
   console.log("Unused modules:");
   console.log();
