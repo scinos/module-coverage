@@ -7,6 +7,8 @@ adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-12-14
+
 ### Fixed
 
 - Fix a bug where it won't report unused modules unless `-r` is provided.
@@ -16,5 +18,6 @@ adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 - Initial release
 
 
-[unreleased]: https://github.com/scinos/module-coverage/compare/1.0.0...HEAD
+[unreleased]: https://github.com/scinos/module-coverage/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/scinos/module-coverage/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/scinos/module-coverage/releases/tag/1.0.0
